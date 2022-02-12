@@ -1,2 +1,11 @@
+
+<svelte:head>
+    <title>Budget Calculator</title>
+</svelte:head>
+		
+
 <h1>Welcome to SvelteKit</h1>
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+
+<p>Home icon</p>
+<i class="fas fa-home fa-5x" />
